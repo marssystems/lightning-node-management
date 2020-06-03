@@ -12,8 +12,8 @@ downloadDir="/home/admin/download"  # edit your download directory
 
 # check who signed the release in https://github.com/lightningnetwork/lnd/releases
 # olaoluwa
-#PGPpkeys="https://keybase.io/roasbeef/pgp_keys.asc"
-#PGPcheck="9769140D255C759B1EB77B46A96387A57CAAE94D"
+PGPpkeys="https://keybase.io/roasbeef/pgp_keys.asc"
+PGPcheck="9769140D255C759B1EB77B46A96387A57CAAE94D"
 
 #joostjager
 # PGPpkeys="https://keybase.io/joostjager/pgp_keys.asc"
