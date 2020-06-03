@@ -3,7 +3,7 @@
 # LND Update Script
 
 # Download and run this script on the RaspiBlitz:
-# $ wget https://raw.githubusercontent.com/openoms/lightning-node-management/master/lnd.updates/lnd.update.v0.10.1-beta.sh && bash lnd.update.v0.10.1-beta.sh
+# $ wget https://github.com/marssystems/lightning-node-management/blob/master/lnd.updates/lnd.update.v0.10.1-beta.sh && bash lnd.update.v0.10.1-beta.sh
 
 # see LND releases: https://github.com/lightningnetwork/lnd/releases
 
