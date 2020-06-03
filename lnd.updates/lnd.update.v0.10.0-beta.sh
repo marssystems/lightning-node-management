@@ -3,17 +3,17 @@
 # LND Update Script
 
 # Download and run this script on the RaspiBlitz:
-# $ wget https://raw.githubusercontent.com/openoms/lightning-node-management/master/lnd.updates/lnd.update.v0.10.0-beta.sh && bash lnd.update.v0.10.0-beta.sh
+# $ wget https://raw.githubusercontent.com/openoms/lightning-node-management/master/lnd.updates/lnd.update.v0.10.1-beta.sh && bash lnd.update.v0.10.1-beta.sh
 
 # see LND releases: https://github.com/lightningnetwork/lnd/releases
 
-lndVersion="0.10.0-beta"  # the version you would like to be updated
+lndVersion="0.10.1-beta"  # the version you would like to be updated
 downloadDir="/home/admin/download"  # edit your download directory
 
 # check who signed the release in https://github.com/lightningnetwork/lnd/releases
 # olaoluwa
-PGPpkeys="https://keybase.io/roasbeef/pgp_keys.asc"
-PGPcheck="9769140D255C759B1EB77B46A96387A57CAAE94D"
+#PGPpkeys="https://keybase.io/roasbeef/pgp_keys.asc"
+#PGPcheck="9769140D255C759B1EB77B46A96387A57CAAE94D"
 
 #joostjager
 # PGPpkeys="https://keybase.io/joostjager/pgp_keys.asc"
